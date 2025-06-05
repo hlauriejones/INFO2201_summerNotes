@@ -6,3 +6,7 @@ w1d3:
 - markdown
 - datatypes
 - variable inits
+- if/else
+- logical operators (and, or, not)
+- booleans
+- inputs
