@@ -10,3 +10,7 @@ w1d3:
 - logical operators (and, or, not)
 - booleans
 - inputs
+
+w1d4: 
+- tuples
+- lists
